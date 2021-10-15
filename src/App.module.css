@@ -2,3 +2,13 @@
   display: grid;
   place-items: center;
 }
+.table{
+  width: 50%;
+  margin-top: 50px;
+}
+.error{
+  padding: 30px;
+  margin-top: 30px;
+  font-size: 30px;
+  color: red;
+}
